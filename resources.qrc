@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/mine_logo.png</file>
+        <file>images/mine_exploded_flat_button.png</file>
+    </qresource>
+</RCC>
